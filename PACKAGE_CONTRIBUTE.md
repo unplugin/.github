@@ -5,7 +5,7 @@ We are a diverse community for holding and co-maintaining unplugin related packa
 If you have an unplugin and you want it to be part of this organization, we are open for it! To ensure the quality of the packages, we have some requirements for the packages to be accepted.
 
 - The package is related to unplugin, and general purposed. Integration with proprietary services might not be accepted.
-- The package has at least 100 stars or GitHub, or has at least 3,000 weekly downloads on npm.
+- The package has at least 100 stars on GitHub, or has at least 3,000 weekly downloads on npm.
 - The package is actively maintained and have a good quality.
 
 If you are interested, please open an issue in [this repository](https://github.com/unplugin/.github) to propose your package. We will review it and get back to you as soon as possible.
